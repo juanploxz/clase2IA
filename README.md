@@ -27,7 +27,7 @@ Conocido: Sí
 ________________________________________
 5. ¿Qué tipo de programa de agente creen que es?
 Seleccione la opción que consideren más adecuada y explique por qué.
-•	Agente de reflejo simple
+•	Agente de reflejo simple <-------
 •	Agente basado en modelo
 •	Agente basado en objetivos
 •	Agente basado en utilidad
